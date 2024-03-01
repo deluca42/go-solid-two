@@ -2,5 +2,8 @@
 go-solid repo to study patterns
 
 
-Resposabilidade Unica (single responsability)
+Resposabilidade Unica (single responsability) 
+srp.go
+
+
 
