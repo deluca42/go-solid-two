@@ -26,7 +26,7 @@ func (i Instituicao) ExibirIspb() {
 // cada metodo tem uma responsabilidade, garantindo
 // que se o comportamento de exibir nome for alterado
 // apenas a alteracao ficara no metodo exibirNome
-func main() {
+func srp() {
 
 	instituicao := Instituicao{
 		nome: "Banco do Brasil",
